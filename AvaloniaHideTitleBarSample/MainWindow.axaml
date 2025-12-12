@@ -6,6 +6,8 @@
         x:Class="AvaloniaHideTitleBarSample.MainWindow"
         ExtendClientAreaToDecorationsHint="True"
         ExtendClientAreaChromeHints="NoChrome"
+        CanMaximize="False"
+        CanMinimize="False"
         Title="AvaloniaHideTitleBarSample">
     Welcome to Avalonia!
 </Window>
